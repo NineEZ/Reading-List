@@ -1,37 +1,3 @@
-
-# Awesome-LLM-Watermark
-<!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
-[![Page Views Count](https://badges.toozhao.com/badges/01JEK32741TVDMDN4MV5RGZTS0/blue.svg)](.)
-[![Stars](https://img.shields.io/github/stars/plll4zzx/Awesome-LLM-Watermark)](.)
-
-An UP-TO-DATE collection list for Large Language Model (LLM) Watermark
-
-[<img src="LLM_watermark.jpg" width="50%" class="center">](.)
-
-<!-- [![Star History Chart](https://api.star-history.com/svg?repos=plll4zzx/Awesome-LLM-Watermark&type=Date)](https://star-history.com/#plll4zzx/Awesome-LLM-Watermark&Date) -->
-
-<!-- vscode-markdown-toc -->
-* 1. [LLM watermark](#LLMwatermark)
-	* 1.1. [Token-level watermark](#Token-levelwatermark)
-	* 1.2. [Sentence-level watermark (sentence embedding-based watermark)](#Sentence-levelwatermarksentenceembedding-basedwatermark)
-	* 1.3. [Model-level watermark](#Model-levelwatermark)
-	* 1.4. [Watermarking detection](#Watermarkingdetection)
-* 2. [Attack for watermark](#Attackforwatermark)
-	* 2.1. [Watermark stealing attack](#Watermarkstealing)
-	* 2.2. [Watermark removal attack](#Watermarkremoval)
-	* 2.3. [Watermark spoofing attack](#Watermarkspoofing)
-	* 2.4. [Robust watermark](#Robustwatermark)
-* 3. [Multi-bit watermark](#Multi-bitwatermark)
-* 4. [Unbiased watermark](#Unbiasedwatermark)
-* 5. [Analysis of LLM watermark](#AnalysisofLLMwatermark)
-* 6. [Survey](#Survey)
-
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
-
 ##  1. <a name='LLMwatermark'></a>LLM watermark
 ###  1.1. <a name='Token-levelwatermark'></a>Token-level watermark
 * A Watermark for Large Language Models 
