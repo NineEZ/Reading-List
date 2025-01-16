@@ -15,7 +15,7 @@
 * Subjective or objective measures of street environment, which are more effective in explaining housing prices?
   * https://www.sciencedirect.com/science/article/abs/pii/S016920462200007X
 * Revealing spatio-temporal evolution of urban visual environments with street view imagery
-  * https://www.researchgate.net/profile/Filip-Biljecki/publication/370845671_Revealing_spatio-temporal_evolution_of_urban_visual_environments_with_street_view_imagery/links/64660d0466b4cb4f73bc8936/Revealing-spatio-temporal-evolution-of-urban-visual-environments-with-street-view-imagery.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9
+  * [https://www.sciencedirect.com/science/article/pii/S0169204623001214](https://www.researchgate.net/profile/Filip-Biljecki/publication/370845671_Revealing_spatio-temporal_evolution_of_urban_visual_environments_with_street_view_imagery/links/64660d0466b4cb4f73bc8936/Revealing-spatio-temporal-evolution-of-urban-visual-environments-with-street-view-imagery.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9)
 * Current design guidelines’ streetscape improvement for visual perception and walkability: A case study of sejong city, republic of korea
   * https://www.sciencedirect.com/science/article/pii/S2095263522001078
 * A review of urban physical envi- ronment sensing using street view imagery in public health studies
@@ -25,7 +25,7 @@
 * Associations between streetview perceptions and housing prices: Subjective vs. objective measures using computer vision and machine learning techniques
   * https://www.mdpi.com/2072-4292/14/4/891/pdf
 * Sensing urban soundscapes from street view imagery
-  * https://www.researchgate.net/profile/Tianhong-Zhao-2/publication/365609735_Sensing_urban_soundscapes_from_street_view_imagery/links/637b07bd54eb5f547cedfc6a/Sensing-urban-soundscapes-from-street-view-imagery.pdf
+  * [https://www.sciencedirect.com/science/article/pii/S0198971522001594](https://www.researchgate.net/profile/Tianhong-Zhao-2/publication/365609735_Sensing_urban_soundscapes_from_street_view_imagery/links/637b07bd54eb5f547cedfc6a/Sensing-urban-soundscapes-from-street-view-imagery.pdf)
 * Microclimate vision: Multimodal prediction of climatic parameters using street-level and satellite imagery
   * https://www.sciencedirect.com/science/article/pii/S2210670724005584
 * Evaluating the subjective perceptions of streetscapes using street-view images
@@ -41,7 +41,7 @@
 * Urban architectural style recognition and dataset construction method under deep learning of street view images: A case study of wuhan
   * https://www.mdpi.com/2220-9964/12/7/264/pdf
 * Analysis of winter thermal comfort conditions: street scenarios using envi-met model
-  * https://www.researchgate.net/profile/Elif-Akpinar-Kuelekci/publication/369627182_116_Yilmaz_S_Akpinar_Kulekci_E_Ertem_Mutlu_B_Sezen_I_2021_Analysis_of_winter_thermal_comfort_conditions_street_scenarios_using_ENVI-met_model_Environmental_Science_and_Pollution_Research_httpsdoiorg10/links/64256beb66f8522c38e322d8/116-Yilmaz-S-Akpinar-Kuelekci-E-Ertem-Mutlu-B-Sezen-I-2021-Analysis-of-winter-thermal-comfort-conditions-street-scenarios-using-ENVI-met-model-Environmental-Science-and-Pollution-Research-https.pdf
+  * [https://link.springer.com/article/10.1007/s11356-020-12009-y](https://www.researchgate.net/profile/Elif-Akpinar-Kuelekci/publication/369627182_116_Yilmaz_S_Akpinar_Kulekci_E_Ertem_Mutlu_B_Sezen_I_2021_Analysis_of_winter_thermal_comfort_conditions_street_scenarios_using_ENVI-met_model_Environmental_Science_and_Pollution_Research_httpsdoiorg10/links/64256beb66f8522c38e322d8/116-Yilmaz-S-Akpinar-Kuelekci-E-Ertem-Mutlu-B-Sezen-I-2021-Analysis-of-winter-thermal-comfort-conditions-street-scenarios-using-ENVI-met-model-Environmental-Science-and-Pollution-Research-https.pdf)
 * Measuring the unmeasurable: Urban design qualities related to walkability
   * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5f2d62474b9f7554b10065892719a96a474e358f
 * Associations between built environment, perceived walkability/bikeability and metro transfer patterns
