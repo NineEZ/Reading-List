@@ -41,14 +41,17 @@
 * Urban architectural style recognition and dataset construction method under deep learning of street view images: A case study of wuhan
   * https://www.mdpi.com/2220-9964/12/7/264/pdf
 * Analysis of winter thermal comfort conditions: street scenarios using envi-met model
+  * https://www.researchgate.net/profile/Elif-Akpinar-Kuelekci/publication/369627182_116_Yilmaz_S_Akpinar_Kulekci_E_Ertem_Mutlu_B_Sezen_I_2021_Analysis_of_winter_thermal_comfort_conditions_street_scenarios_using_ENVI-met_model_Environmental_Science_and_Pollution_Research_httpsdoiorg10/links/64256beb66f8522c38e322d8/116-Yilmaz-S-Akpinar-Kuelekci-E-Ertem-Mutlu-B-Sezen-I-2021-Analysis-of-winter-thermal-comfort-conditions-street-scenarios-using-ENVI-met-model-Environmental-Science-and-Pollution-Research-https.pdf
 * Measuring the unmeasurable: Urban design qualities related to walkability
-* Towards real-time object detection with region proposal networks
-* Deep residual learning for image recognition
+  * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5f2d62474b9f7554b10065892719a96a474e358f
 * Associations between built environment, perceived walkability/bikeability and metro transfer patterns
+  * https://www.sciencedirect.com/science/article/abs/pii/S0965856421002378
 * Fully convolutional networks for semantic segmentation
-* Cozie apple: An ios mobile and smartwatch application for environmental quality satisfaction and physiological data collection
+  * https://openaccess.thecvf.com/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf
 * Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time- series street view image
+  * https://www.researchgate.net/profile/Pengyuan-Liu-3/publication/369331789_Knowledge_and_topology_A_two_layer_spatially_dependent_graph_neural_networks_to_identify_urban_functions_with_time-series_street_view_image/links/64151a5ea1b72772e408bbad/Knowledge-and-topology-A-two-layer-spatially-dependent-graph-neural-networks-to-identify-urban-functions-with-time-series-street-view-image.pdf
 * Combining visual intelligence and social-physical urban features facilitates fine-scale seasonality characterization of urban thermal environments
+  * https://www.sciencedirect.com/science/article/pii/S0360132324009302
 
 
 ###  1.2. <a name='Technology'></a>Technology
@@ -59,6 +62,14 @@
   * https://hw.oeaw.ac.at?arp=0x003aba2b
 * Scene parsing through ade20k dataset
   * https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Scene_Parsing_Through_CVPR_2017_paper.pdf
+* Faster R-CNN: Towards real-time object detection with region proposal networks
+  * https://arxiv.org/pdf/1506.01497
+* Deep residual learning for image recognition
+  * https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
+* Fully convolutional networks for semantic segmentation
+  * https://openaccess.thecvf.com/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf
+* Cozie apple: An ios mobile and smartwatch application for environmental quality satisfaction and physiological data collection
+  * https://iopscience.iop.org/article/10.1088/1742-6596/2600/14/142003/pdf
 * Automatic Pixel-Level Pavement Crack Detection Using Information of Multi-Scale Neighborhoods
 * Street view imagery in urban analytics and GIS: A review
 * Street pavement classification based on navigation through street view imagery
