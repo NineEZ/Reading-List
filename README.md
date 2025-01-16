@@ -73,18 +73,34 @@
 * Cozie apple: An ios mobile and smartwatch application for environmental quality satisfaction and physiological data collection
   * https://iopscience.iop.org/article/10.1088/1742-6596/2600/14/142003/pdf
 * Automatic Pixel-Level Pavement Crack Detection Using Information of Multi-Scale Neighborhoods
+  * https://ieeexplore.ieee.org/iel7/6287639/8274985/08344535.pdf
 * Street pavement classification based on navigation through street view imagery
+  * https://link.springer.com/article/10.1007/s00146-022-01520-0
 * Urban perception: Sensing cities via a deep interactive multi-task learning framework
+  * https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8153&context=sis_research
 * Deep residual learning for image recognition
+  * https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
 * Spatial context-aware method for urban land use classification using street view images
+  * https://www.sciencedirect.com/science/article/pii/S0924271622001988
 * Masked- attention Mask Transformer for Universal Image Segmentation
+  * http://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_Masked-Attention_Mask_Transformer_for_Universal_Image_Segmentation_CVPR_2022_paper.pdf
 * Virtual audits of the urban streetscape: Comparing the inter-rater reliability of GigaPan® to Google Street View
-* Comparing conventional manual measure- ment of the green view index with modern automatic methods using google street view and semantic segmentation
+  * https://link.springer.com/content/pdf/10.1186/s12942-020-00226-0.pdf
+* Comparing conventional manual measurement of the green view index with modern automatic methods using google street view and semantic segmentation
+  * https://www.sciencedirect.com/science/article/pii/S161886672300016X
 * Streets of london: Using flickr and openstreetmap to build an interactive image of the city
+  * https://www.sciencedirect.com/science/article/pii/S019897152030257X
 * Applications of 3D City Models: State of the Art Review
+  * https://www.mdpi.com/2220-9964/4/4/2842/pdf
 * Integrating street view imagery and taxi trajectory for identifying urban function of street space
+  * https://www.tandfonline.com/doi/pdf/10.1080/10095020.2024.2311866
 * Fish-eye camera and image processing for commanding a solar tracker
+  * https://www.cell.com/heliyon/pdf/S2405-8440(18)37672-2.pdf
 * Quantifying the green view indicator for assessing urban greening quality: An analysis based on Internet-crawling street view data
+  * https://www.sciencedirect.com/science/article/pii/S1470160X20301291
 * Quantifying the characteristics of the local urban environment through geotagged flickr photographs and image recognition
-* New methods for acquiring, constructing, analyzing, and visualizing complex street networks
+  * https://www.mdpi.com/2220-9964/9/4/264/pdf
+* OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks
+  * https://arxiv.org/pdf/1611.01890
 * Deep learning-based road damage detection and clas- sification for multiple countries
+  * https://www.sciencedirect.com/science/article/am/pii/S0926580521003861
