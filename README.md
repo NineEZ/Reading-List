@@ -3,6 +3,16 @@
 * A comparison of thermal comfort conditions in four urban spaces by means of measurements and modelling techniques 
   * https://www.sciencedirect.com/science/article/abs/pii/S0360132315300421
 * Personal thermal comfort mod- els using digital twins: Preference prediction with bim-extracted spatial– temporal proximity data from build2vec
+* Urban planning and smart city decision management empowered by real-time data processing using big data analytics
+* Digital twins in city planning
+* Google street view and the image as experience
+* Street view imagery in urban analytics and gis: A review
+* Subjective or ob- jective measures of street environment, which are more effective in explaining housing prices?
+* Revealing spatio-temporal evolution of urban visual environments with street view imagery
+* Current design guidelines’ streetscape improvement for visual perception and walkability: A case study of sejong city, republic of korea
+* A review of urban physical envi- ronment sensing using street view imagery in public health studies
+* Bridging the gap between pedestrian and street views for human-centric environment measurement: A gis-based 3d virtual environment
+* Associations be- tween streetview perceptions and housing prices: Subjective vs. objective measures using computer vision and machine learning techniques
 
 
 ###  1.2. <a name='Technology'></a>Technology
