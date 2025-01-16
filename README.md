@@ -52,6 +52,8 @@
   * https://www.researchgate.net/profile/Pengyuan-Liu-3/publication/369331789_Knowledge_and_topology_A_two_layer_spatially_dependent_graph_neural_networks_to_identify_urban_functions_with_time-series_street_view_image/links/64151a5ea1b72772e408bbad/Knowledge-and-topology-A-two-layer-spatially-dependent-graph-neural-networks-to-identify-urban-functions-with-time-series-street-view-image.pdf
 * Combining visual intelligence and social-physical urban features facilitates fine-scale seasonality characterization of urban thermal environments
   * https://www.sciencedirect.com/science/article/pii/S0360132324009302
+* Street view imagery in urban analytics and GIS: A review
+  * https://www.sciencedirect.com/science/article/pii/S0169204621001808
 
 
 ###  1.2. <a name='Technology'></a>Technology
@@ -71,7 +73,6 @@
 * Cozie apple: An ios mobile and smartwatch application for environmental quality satisfaction and physiological data collection
   * https://iopscience.iop.org/article/10.1088/1742-6596/2600/14/142003/pdf
 * Automatic Pixel-Level Pavement Crack Detection Using Information of Multi-Scale Neighborhoods
-* Street view imagery in urban analytics and GIS: A review
 * Street pavement classification based on navigation through street view imagery
 * Urban perception: Sensing cities via a deep interactive multi-task learning framework
 * Deep residual learning for image recognition
