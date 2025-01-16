@@ -2,13 +2,20 @@
 ###  1.1. <a name='Urban'></a>Urban
 * A comparison of thermal comfort conditions in four urban spaces by means of measurements and modelling techniques 
   * https://www.sciencedirect.com/science/article/abs/pii/S0360132315300421
-* Personal thermal comfort mod- els using digital twins: Preference prediction with bim-extracted spatial– temporal proximity data from build2vec
+* Personal thermal comfort models using digital twins: Preference prediction with bim-extracted spatial-temporal proximity data from build2vec
+  * https://arxiv.org/pdf/2111.00199
 * Urban planning and smart city decision management empowered by real-time data processing using big data analytics
+  * https://www.mdpi.com/1424-8220/18/9/2994/pdf
 * Digital twins in city planning
+  * https://www.ucl.ac.uk/bartlett/casa/sites/bartlett_casa/files/casa_working_paper_237.pdf
 * Google street view and the image as experience
+  * https://www.academia.edu/download/92139925/2373566X.2016.121774120221008-1-kz8ln3.pdf
 * Street view imagery in urban analytics and gis: A review
-* Subjective or ob- jective measures of street environment, which are more effective in explaining housing prices?
+  * https://www.sciencedirect.com/science/article/pii/S0169204621001808
+* Subjective or objective measures of street environment, which are more effective in explaining housing prices?
+  * https://www.sciencedirect.com/science/article/abs/pii/S016920462200007X
 * Revealing spatio-temporal evolution of urban visual environments with street view imagery
+  * https://www.researchgate.net/profile/Filip-Biljecki/publication/370845671_Revealing_spatio-temporal_evolution_of_urban_visual_environments_with_street_view_imagery/links/64660d0466b4cb4f73bc8936/Revealing-spatio-temporal-evolution-of-urban-visual-environments-with-street-view-imagery.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9
 * Current design guidelines’ streetscape improvement for visual perception and walkability: A case study of sejong city, republic of korea
 * A review of urban physical envi- ronment sensing using street view imagery in public health studies
 * Bridging the gap between pedestrian and street views for human-centric environment measurement: A gis-based 3d virtual environment
