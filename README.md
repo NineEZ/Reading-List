@@ -17,18 +17,29 @@
 * Revealing spatio-temporal evolution of urban visual environments with street view imagery
   * https://www.researchgate.net/profile/Filip-Biljecki/publication/370845671_Revealing_spatio-temporal_evolution_of_urban_visual_environments_with_street_view_imagery/links/64660d0466b4cb4f73bc8936/Revealing-spatio-temporal-evolution-of-urban-visual-environments-with-street-view-imagery.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9
 * Current design guidelines’ streetscape improvement for visual perception and walkability: A case study of sejong city, republic of korea
+  * https://www.sciencedirect.com/science/article/pii/S2095263522001078
 * A review of urban physical envi- ronment sensing using street view imagery in public health studies
+  * https://www.tandfonline.com/doi/pdf/10.1080/19475683.2020.1791954
 * Bridging the gap between pedestrian and street views for human-centric environment measurement: A gis-based 3d virtual environment
-* Associations be- tween streetview perceptions and housing prices: Subjective vs. objective measures using computer vision and machine learning techniques
+  * https://www.sciencedirect.com/science/article/pii/S0169204623001925
+* Associations between streetview perceptions and housing prices: Subjective vs. objective measures using computer vision and machine learning techniques
+  * https://www.mdpi.com/2072-4292/14/4/891/pdf
 * Sensing urban soundscapes from street view imagery
+  * https://www.researchgate.net/profile/Tianhong-Zhao-2/publication/365609735_Sensing_urban_soundscapes_from_street_view_imagery/links/637b07bd54eb5f547cedfc6a/Sensing-urban-soundscapes-from-street-view-imagery.pdf
 * Microclimate vision: Multimodal prediction of climatic parameters using street-level and satellite imagery
+  * https://www.sciencedirect.com/science/article/pii/S2210670724005584
 * Evaluating the subjective perceptions of streetscapes using street-view images
+  * https://www.sciencedirect.com/science/article/pii/S0169204624000720
 * The cityscapes dataset for semantic urban scene understanding
+  * http://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf
 * Urbanity: automated modelling and analysis of multidimensional networks in cities
+  * https://www.nature.com/articles/s42949-023-00125-w.pdf
 * Digital twin and wearables unveiling pedestrian comfort dynamics and walkability in cities
+  * https://filipbiljecki.com/publications/2024_3dgeoinfo_thermal_walk.pdf
 * Street design scenarios using vegetation for sustainable thermal comfort in erzurum, turkey
+  * https://www.academia.edu/download/117065615/s11356-020-10555-z20240727-1-ux3re8.pdf
 * Urban architectural style recognition and dataset construction method under deep learning of street view images: A case study of wuhan
-* Scene parsing through ade20k dataset
+  * https://www.mdpi.com/2220-9964/12/7/264/pdf
 * Analysis of winter thermal comfort conditions: street scenarios using envi-met model
 * Measuring the unmeasurable: Urban design qualities related to walkability
 * Towards real-time object detection with region proposal networks
@@ -46,6 +57,8 @@
 * OutdoorSent: Sentiment Analysis of Urban Outdoor Images by Using Semantic and Deep Features
 * MovingPandas: Efficient Structures for Movement Data in Python. GI_Forum
   * https://hw.oeaw.ac.at?arp=0x003aba2b
+* Scene parsing through ade20k dataset
+  * https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Scene_Parsing_Through_CVPR_2017_paper.pdf
 * Automatic Pixel-Level Pavement Crack Detection Using Information of Multi-Scale Neighborhoods
 * Street view imagery in urban analytics and GIS: A review
 * Street pavement classification based on navigation through street view imagery
