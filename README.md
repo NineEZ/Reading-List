@@ -60,6 +60,7 @@
 * Open sourcing PEARL – human-in-the-loop AI for land cover mapping
   * [http://arxiv.org/abs/2405.13517](https://developmentseed.org/blog/2022-03-15-open-sourcing-pearl)
 * OutdoorSent: Sentiment Analysis of Urban Outdoor Images by Using Semantic and Deep Features
+  * https://arxiv.org/pdf/1906.02331
 * MovingPandas: Efficient Structures for Movement Data in Python. GI_Forum
   * https://hw.oeaw.ac.at?arp=0x003aba2b
 * Scene parsing through ade20k dataset
