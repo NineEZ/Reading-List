@@ -49,7 +49,7 @@
 * Fully convolutional networks for semantic segmentation
   * https://openaccess.thecvf.com/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf
 * Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time- series street view image
-  * https://www.researchgate.net/profile/Pengyuan-Liu-3/publication/369331789_Knowledge_and_topology_A_two_layer_spatially_dependent_graph_neural_networks_to_identify_urban_functions_with_time-series_street_view_image/links/64151a5ea1b72772e408bbad/Knowledge-and-topology-A-two-layer-spatially-dependent-graph-neural-networks-to-identify-urban-functions-with-time-series-street-view-image.pdf
+  * [https://dl.acm.org/doi/abs/10.1145/3385186](https://www.researchgate.net/profile/Pengyuan-Liu-3/publication/369331789_Knowledge_and_topology_A_two_layer_spatially_dependent_graph_neural_networks_to_identify_urban_functions_with_time-series_street_view_image/links/64151a5ea1b72772e408bbad/Knowledge-and-topology-A-two-layer-spatially-dependent-graph-neural-networks-to-identify-urban-functions-with-time-series-street-view-image.pdf)
 * Combining visual intelligence and social-physical urban features facilitates fine-scale seasonality characterization of urban thermal environments
   * https://www.sciencedirect.com/science/article/pii/S0360132324009302
 * Street view imagery in urban analytics and GIS: A review
