@@ -13,6 +13,24 @@
 * A review of urban physical envi- ronment sensing using street view imagery in public health studies
 * Bridging the gap between pedestrian and street views for human-centric environment measurement: A gis-based 3d virtual environment
 * Associations be- tween streetview perceptions and housing prices: Subjective vs. objective measures using computer vision and machine learning techniques
+* Sensing urban soundscapes from street view imagery
+* Microclimate vision: Multimodal prediction of climatic parameters using street-level and satellite imagery
+* Evaluating the subjective perceptions of streetscapes using street-view images
+* The cityscapes dataset for semantic urban scene understanding
+* Urbanity: automated modelling and analysis of multidimensional networks in cities
+* Digital twin and wearables unveiling pedestrian comfort dynamics and walkability in cities
+* Street design scenarios using vegetation for sustainable thermal comfort in erzurum, turkey
+* Urban architectural style recognition and dataset construction method under deep learning of street view images: A case study of wuhan
+* Scene parsing through ade20k dataset
+* Analysis of winter thermal comfort conditions: street scenarios using envi-met model
+* Measuring the unmeasurable: Urban design qualities related to walkability
+* Towards real-time object detection with region proposal networks
+* Deep residual learning for image recognition
+* Associations between built environment, perceived walkability/bikeability and metro transfer patterns
+* Fully convolutional networks for semantic segmentation
+* Cozie apple: An ios mobile and smartwatch application for environmental quality satisfaction and physiological data collection
+* Knowledge and topology: A two layer spatially dependent graph neural networks to identify urban functions with time- series street view image
+* Combining visual intelligence and social-physical urban features facilitates fine-scale seasonality characterization of urban thermal environments
 
 
 ###  1.2. <a name='Technology'></a>Technology
